@@ -1,4 +1,4 @@
-# ITC PSPD Internship – Sarath Kothapalli (UI/UX Designer)
+# ITC PSPD Internship
 
 ## Overview  
 This repository highlights my design journey and key contributions during my internship at **ITC Paperboards and Specialty Papers Division (PSPD)**, where I served as a **UI/UX Design Intern**. The core project involved designing a scalable, intuitive **intranet employee portal** aimed at improving internal communication, task flow, and accessibility for employees.
